@@ -20,6 +20,16 @@
         "akumaNoMi": "None",
         "hairColor": "Green"
     },
+      {
+    "name": "Usopp",
+    "imageFilename": "usopp.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Syrup Village",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
     {
         "name": "Cabaji",
         "imageFilename": "cabaji.png",
