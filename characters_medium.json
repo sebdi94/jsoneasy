@@ -10,16 +10,6 @@
         "akumaNoMi": "None",
         "hairColor": "Grey"
     },
-      {
-    "name": "Usopp",
-    "imageFilename": "usopp.png",
-    "gender": "Male",
-    "race": "Human",
-    "worldStatus": "Pirate",
-    "firstAppearance": "Syrup Village",
-    "akumaNoMi": "None",
-    "hairColor": "Black"
-  },
     {
         "name": "Makino",
         "imageFilename": "makino.png",
@@ -961,516 +951,525 @@
         "hairColor": "Brown"
     },
     {
-        "name": "Monkey D. Luffy",
-        "imageFilename": "monkey_d_luffy.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Romance Dawn",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
+    "name": "Monkey D. Luffy",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/659840f5da4ae559563ca542_monkey_d_luffy.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Romance Dawn",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
     {
-        "name": "Shanks",
-        "imageFilename": "shanks.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Romance Dawn",
-        "akumaNoMi": "None",
-        "hairColor": "Red"
-    },
-    {
-        "name": "Nami",
-        "imageFilename": "nami.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Romance Dawn",
-        "akumaNoMi": "None",
-        "hairColor": "Ginger"
-    },
-    {
-        "name": "Roronoa Zoro",
-        "imageFilename": "roronoa_zoro.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus":"Pirate",
-        "firstAppearance":"Romance Dawn",
-        "akumaNoMi":"None",
-        "hairColor":"Green"
-    },
-    {
-        "name": "Buggy",
-        "imageFilename": "buggy.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Orange Town",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Blue"
-    },
-    {
-        "name": "Kuro",
-        "imageFilename": "kuro.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Syrup Village",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Kaya",
-        "imageFilename": "kaya.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Syrup Village",
-        "akumaNoMi": "None",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "Jango",
-        "imageFilename": "jango.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate / Marine",
-        "firstAppearance": "Syrup Village",
-        "akumaNoMi": "None",
-        "hairColor": "Brown"
-    },
-    {
-        "name": "Gaimon",
-        "imageFilename": "gaimon.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Gaimon",
-        "akumaNoMi": "None",
-        "hairColor": "Green"
-    },
-    {
-        "name": "Sanji",
-        "imageFilename": "sanji.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Baratie",
-        "akumaNoMi": "None",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "Zeff",
-        "imageFilename": "zeff.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate / Civilian",
-        "firstAppearance": "Baratie",
-        "akumaNoMi": "None",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "Don Krieg",
-        "imageFilename": "krieg.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Baratie",
-        "akumaNoMi": "None",
-        "hairColor": "Lilac"
-    },
-    {
-        "name": "Dracule Mihawk",
-        "imageFilename": "mihawk.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Baratie",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Arlong",
-        "imageFilename": "arlong.png",
-        "gender": "Male",
-        "race": "Gyojin",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Arlong Park",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Hatchan",
-        "imageFilename": "hatchan.png",
-        "gender": "Male",
-        "race": "Gyojin",
-        "worldStatus": "Pirate / Civilian",
-        "firstAppearance": "Arlong Park",
-        "akumaNoMi": "None",
-        "hairColor": "Grey"
-    },
-    {
-        "name": "Emporio Ivankov",
-        "imageFilename": "emporio_ivankov.png",
-        "gender": "Okama",
-        "race": "Human",
-        "worldStatus": "Revolutionary",
-        "firstAppearance": "Impel Down",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Purple"
-    },
-    {
-        "name": "Belle-mere",
-        "imageFilename": "bellemere.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Civilian / Marine",
-        "firstAppearance": "Arlong Park",
-        "akumaNoMi": "None",
-        "hairColor": "Garnet"
-    },
-    {
-        "name": "Tashigi",
-        "imageFilename": "tashigi.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Marine",
-        "firstAppearance": "Loguetown",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Smoker",
-        "imageFilename": "smoker.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Marine",
-        "firstAppearance": "Loguetown",
-        "akumaNoMi": "Logia",
-        "hairColor": "White"
-    },
-    {
-        "name": "Laboon",
-        "imageFilename": "laboon.png",
-        "gender": "Male",
-        "race": "Animal",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Reverse Mountain",
-        "akumaNoMi": "None",
-        "hairColor": "No hair"
-    },
-    {
-        "name": "Nefertari Vivi",
-        "imageFilename": "vivi.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Reverse Mountain",
-        "akumaNoMi": "None",
-        "hairColor": "Blue"
-    },
-    {
-        "name": "Crocodile",
-        "imageFilename": "crocodile.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Whisky Peak",
-        "akumaNoMi": "Logia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Nico Robin",
-        "imageFilename": "robin.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Whisky Peak",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Mr. 2 (Bon Kurei)",
-        "imageFilename": "bonchan.png",
-        "gender": "Okama",
-        "race": "Human",
-        "worldStatus": "Bountyhunter",
-        "firstAppearance": "Little Garden",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Wapol",
-        "imageFilename": "wapol.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Drum Island",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Purple"
-    },
-    {
-        "name": "Tony Tony Chopper",
-        "imageFilename": "chopper.png",
-        "gender": "Male",
-        "race": "Animal",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Drum Island",
-        "akumaNoMi": "Zoan",
-        "hairColor": "Brown"
-    },
-    {
-        "name": "Marshall D. Teach",
-        "imageFilename": "kurohige.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Drum Island",
-        "akumaNoMi": "Paramecia / Logia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Portgas D. Ace",
-        "imageFilename": "ace.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Drum Island",
-        "akumaNoMi": "Logia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Nefertari Cobra",
-        "imageFilename": "cobra.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Arabasta",
-        "akumaNoMi": "None",
-        "hairColor": "Grey"
-    },
-    {
-        "name": "Brook",
-        "imageFilename": "brook.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Thriller Bark",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Gecko Moria",
-        "imageFilename": "gecko_moria.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Thriller Bark",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Purple"
-    },
-    {
-        "name": "Trafalgar D. Law",
-        "imageFilename": "trafalgar_d_law.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Eustass 'Captain' Kid",
-        "imageFilename": "kidd.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Red"
-    },
-    {
-        "name": "Capone 'Bang' Bege",
-        "imageFilename": "capone.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Jewelry Bonney",
-        "imageFilename": "bonney.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Pink"
-    },
-    {
-        "name": "Basil Hawkins",
-        "imageFilename": "hawkins.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "Scratchmen Apoo",
-        "imageFilename": "apoo.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Brown"
-    },
-    {
-        "name": "Urouge",
-        "imageFilename": "urouge.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Killer",
-        "imageFilename": "killer.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "None",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "X Drake",
-        "imageFilename": "drake.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Sabaody Archipelago",
-        "akumaNoMi": "Mythical Zoan",
-        "hairColor": "Ginger"
-    },
-    
-    {
-        "name": "Rayleigh",
-        "imageFilename": "rayleigh.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Orange Town",
-        "akumaNoMi": "None",
-        "hairColor": "Grey"
-    },
-    {
-        "name": "Donquixote Doflamingo",
-        "imageFilename": "donquixote.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Jaya",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Blonde"
-    },
-    {
-        "name": "Boa Hancock",
-        "imageFilename": "boa_hancock.png",
-        "gender": "Female",
-        "race": "Human",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Amazon Lily",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Magellan",
-        "imageFilename": "magellan.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Marine",
-        "firstAppearance": "Impel Down",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Jinbe",
-        "imageFilename": "jinbe.png",
-        "gender": "Male",
-        "race": "Gyojin",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Impel Down",
-        "akumaNoMi": "None",
-        "hairColor": "Black"
-    },
-    {
-        "name": "King Neptune",
-        "imageFilename": "king_neptune.png",
-        "gender": "Male",
-        "race": "Gyojin",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Gyojin Island",
-        "akumaNoMi": "None",
-        "hairColor": "Ginger"
-    },
-    {
-        "name": "Shirahoshi",
-        "imageFilename": "shirahoshi.png",
-        "gender": "Female",
-        "race": "Gyojin",
-        "worldStatus": "Civilian",
-        "firstAppearance": "Gyojin Island",
-        "akumaNoMi": "None",
-        "hairColor": "Pink"
-    },
-    {
-        "name": "Hody Jones",
-        "imageFilename": "hody_jones.png",
-        "gender": "Male",
-        "race": "Gyojin",
-        "worldStatus": "Pirate",
-        "firstAppearance": "Gyojin Island",
-        "akumaNoMi": "None",
-        "hairColor": "Black / Grey"
-    },
-    {
-        "name": "Momonosuke",
-        "imageFilename": "momonosuke.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Samurai",
-        "firstAppearance": "Punk Hazard",
-        "akumaNoMi": "Zoan",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Kinemon",
-        "imageFilename": "kinemon.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Samurai",
-        "firstAppearance": "Impel Down",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    },
-    {
-        "name": "Fujitora",
-        "imageFilename": "fujitora.png",
-        "gender": "Male",
-        "race": "Human",
-        "worldStatus": "Marine",
-        "firstAppearance": "Dressrosa",
-        "akumaNoMi": "Paramecia",
-        "hairColor": "Black"
-    }
+    "name": "Usopp",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bc6d3f61981a94401ff8_usopp.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Syrup Village",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Shanks",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bc921df5a8f256687d1e_shanks.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Romance Dawn",
+    "akumaNoMi": "None",
+    "hairColor": "Red"
+  },
+  {
+    "name": "Nami",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bca8312d087df12be0fc_nami.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Romance Dawn",
+    "akumaNoMi": "None",
+    "hairColor": "Ginger"
+  },
+  {
+    "name": "Roronoa Zoro",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcb027a6602c74a61bc6_roronoa_zoro.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Romance Dawn",
+    "akumaNoMi": "None",
+    "hairColor": "Green"
+  },
+  {
+    "name": "Buggy",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcb455ab821f563d0cf5_buggy.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Orange Town",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Blue"
+  },
+  {
+    "name": "Kuro",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcebfa97c26867d2a18d_kuro.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Syrup Village",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Kaya",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcec35b9f4c2f76e2044_kaya.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Syrup Village",
+    "akumaNoMi": "None",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "Jango",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcf8264ad19f20cc60ec_jango.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate / Marine",
+    "firstAppearance": "Syrup Village",
+    "akumaNoMi": "None",
+    "hairColor": "Brown"
+  },
+  {
+    "name": "Gaimon",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd36312d087df12c2cea_gaimon.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Gaimon",
+    "akumaNoMi": "None",
+    "hairColor": "Green"
+  },
+  {
+    "name": "Sanji",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd3b2384e3889df4fa06_sanji.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Baratie",
+    "akumaNoMi": "None",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "Zeff",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd3e55ab821f563eb93f_zeff.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate / Civilian",
+    "firstAppearance": "Baratie",
+    "akumaNoMi": "None",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "Don Krieg",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd6e3e27d70781f41705_krieg.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Baratie",
+    "akumaNoMi": "None",
+    "hairColor": "Lilac"
+  },
+  {
+    "name": "Dracule Mihawk",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd743f61981a9440bfad_mihawk.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Baratie",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Arlong",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd77bd649806f49e6025_arlong.png",
+    "gender": "Male",
+    "race": "Gyojin",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Arlong Park",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Hatchan",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd908abed6387f8f332b_hatchan.png",
+    "gender": "Male",
+    "race": "Gyojin",
+    "worldStatus": "Pirate / Civilian",
+    "firstAppearance": "Arlong Park",
+    "akumaNoMi": "None",
+    "hairColor": "Grey"
+  },
+  {
+    "name": "Emporio Ivankov",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd979917def056a717f3_emporio_ivankov.png",
+    "gender": "Okama",
+    "race": "Human",
+    "worldStatus": "Revolutionary",
+    "firstAppearance": "Impel Down",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Purple"
+  },
+  {
+    "name": "Belle-mere",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd9b5c749628472c40ad_bellemere.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Civilian / Marine",
+    "firstAppearance": "Arlong Park",
+    "akumaNoMi": "None",
+    "hairColor": "Garnet"
+  },
+  {
+    "name": "Tashigi",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdbbe6c2543588a83aab_tashigi.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Marine",
+    "firstAppearance": "Loguetown",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Smoker",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdbda49e586d99ff1ced_smoker.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Marine",
+    "firstAppearance": "Loguetown",
+    "akumaNoMi": "Logia",
+    "hairColor": "White"
+  },
+  {
+    "name": "Laboon",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdc08abed6387f8f4c39_laboon.png",
+    "gender": "Male",
+    "race": "Animal",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Reverse Mountain",
+    "akumaNoMi": "None",
+    "hairColor": "No hair"
+  },
+  {
+    "name": "Nefertari Vivi",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdfa8190fe5df3501f1b_vivi.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Reverse Mountain",
+    "akumaNoMi": "None",
+    "hairColor": "Blue"
+  },
+  {
+    "name": "Crocodile",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdf62473ac6bf1408c11_crocodile.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Whisky Peak",
+    "akumaNoMi": "Logia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Nico Robin",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdf3c6ff554eb603643f_robin.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Whisky Peak",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Mr. 2 (Bon Kurei)",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be216a8639197a874ebe_bonchan.png",
+    "gender": "Okama",
+    "race": "Human",
+    "worldStatus": "Bountyhunter",
+    "firstAppearance": "Little Garden",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Wapol",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be24a0ec2e337d091536_wapol.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Drum Island",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Purple"
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be29a5a2f97fb6fc61d4_chopper.png",
+    "gender": "Male",
+    "race": "Animal",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Drum Island",
+    "akumaNoMi": "Zoan",
+    "hairColor": "Brown"
+  },
+  {
+    "name": "Marshall D. Teach",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be3f887272af54746295_kurohige.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Drum Island",
+    "akumaNoMi": "Paramecia / Logia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Portgas D. Ace",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be651eb26193f8882240_ace.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Drum Island",
+    "akumaNoMi": "Logia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Nefertari Cobra",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be6b264ad19f20cd28eb_cobra.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Arabasta",
+    "akumaNoMi": "None",
+    "hairColor": "Grey"
+  },
+  {
+    "name": "Brook",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be6ea5a2f97fb6fc81ef_brook.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Thriller Bark",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Gecko Moria",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be731df5a8f256699830_gecko_moria.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Thriller Bark",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Purple"
+  },
+  {
+    "name": "Trafalgar D. Law",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beb1321ff3bd7902e90f_trafalgar_d_law.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Eustass 'Captain' Kid",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bec15c749628472cdffd_kidd.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Red"
+  },
+  {
+    "name": "Capone 'Bang' Bege",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beb9887272af5474ac72_capone.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Jewelry Bonney",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beca35b9f4c2f76f3b1d_bonney.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Pink"
+  },
+  {
+    "name": "Basil Hawkins",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beeeb53dc2c262004925_hawkins.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "Scratchmen Apoo",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bef3321ff3bd790302f7_apoo.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Brown"
+  },
+  {
+    "name": "Urouge",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bef7cde373fe63d74cf0_urouge.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Killer",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599befdcde373fe63d75160_killer.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "None",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "X Drake",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf1e3f61981a9441c7fd_drake.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Sabaody Archipelago",
+    "akumaNoMi": "Mythical Zoan",
+    "hairColor": "Ginger"
+  },
 
+  {
+    "name": "Rayleigh",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf2351d4d2628fb13792_rayleigh.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Orange Town",
+    "akumaNoMi": "None",
+    "hairColor": "Grey"
+  },
+  {
+    "name": "Donquixote Doflamingo",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf1faa81920504ab9ceb_donquixote.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Jaya",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Blonde"
+  },
+  {
+    "name": "Boa Hancock",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf3dc6ff554eb6040a87_boa_hancock.png",
+    "gender": "Female",
+    "race": "Human",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Amazon Lily",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Magellan",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf42426a9052442eb3bf_magellan.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Marine",
+    "firstAppearance": "Impel Down",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Jinbe",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf452473ac6bf141379e_jinbe.png",
+    "gender": "Male",
+    "race": "Gyojin",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Impel Down",
+    "akumaNoMi": "None",
+    "hairColor": "Black"
+  },
+  {
+    "name": "King Neptune",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf4cc489a49f48b32567_king_neptune.png",
+    "gender": "Male",
+    "race": "Gyojin",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Gyojin Island",
+    "akumaNoMi": "None",
+    "hairColor": "Ginger"
+  },
+  {
+    "name": "Shirahoshi",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7355ab821f563ff649_shirahoshi.png",
+    "gender": "Female",
+    "race": "Gyojin",
+    "worldStatus": "Civilian",
+    "firstAppearance": "Gyojin Island",
+    "akumaNoMi": "None",
+    "hairColor": "Pink"
+  },
+  {
+    "name": "Hody Jones",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf768b0931a1a3234340_hody_jones.png",
+    "gender": "Male",
+    "race": "Gyojin",
+    "worldStatus": "Pirate",
+    "firstAppearance": "Gyojin Island",
+    "akumaNoMi": "None",
+    "hairColor": "Black / Grey"
+  },
+  {
+    "name": "Momonosuke",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7b6e08f19632d3ef48_momonosuke.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Samurai",
+    "firstAppearance": "Punk Hazard",
+    "akumaNoMi": "Zoan",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Kinemon",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7e5ad3bf2497071575_kinemon.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Samurai",
+    "firstAppearance": "Impel Down",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  },
+  {
+    "name": "Fujitora",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf9da5a2f97fb6fd0ea3_fujitora.png",
+    "gender": "Male",
+    "race": "Human",
+    "worldStatus": "Marine",
+    "firstAppearance": "Dressrosa",
+    "akumaNoMi": "Paramecia",
+    "hairColor": "Black"
+  }
     
 ]
