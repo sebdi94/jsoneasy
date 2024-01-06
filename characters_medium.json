@@ -912,7 +912,7 @@
     },
     {
         "name": "Abdullah",
-        "imageFilename": "abdullah.png",
+        "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599ba111c962485030a2c99_abdullah.png",
         "gender": "Male",
         "race": "Human",
         "worldStatus": "Pirate",
