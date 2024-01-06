@@ -11,7 +11,7 @@
   },
     {
     "name": "Usopp",
-    "imageFilename": "usopp.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bc6d3f61981a94401ff8_usopp.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Shanks",
-    "imageFilename": "shanks.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bc921df5a8f256687d1e_shanks.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Nami",
-    "imageFilename": "nami.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bca8312d087df12be0fc_nami.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Roronoa Zoro",
-    "imageFilename": "roronoa_zoro.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcb027a6602c74a61bc6_roronoa_zoro.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -51,7 +51,7 @@
   },
   {
     "name": "Buggy",
-    "imageFilename": "buggy.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcb455ab821f563d0cf5_buggy.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Kuro",
-    "imageFilename": "kuro.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcebfa97c26867d2a18d_kuro.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Kaya",
-    "imageFilename": "kaya.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcec35b9f4c2f76e2044_kaya.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Civilian",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Jango",
-    "imageFilename": "jango.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bcf8264ad19f20cc60ec_jango.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate / Marine",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Gaimon",
-    "imageFilename": "gaimon.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd36312d087df12c2cea_gaimon.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Sanji",
-    "imageFilename": "sanji.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd3b2384e3889df4fa06_sanji.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Zeff",
-    "imageFilename": "zeff.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd3e55ab821f563eb93f_zeff.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate / Civilian",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Don Krieg",
-    "imageFilename": "krieg.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd6e3e27d70781f41705_krieg.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -131,7 +131,7 @@
   },
   {
     "name": "Dracule Mihawk",
-    "imageFilename": "mihawk.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd743f61981a9440bfad_mihawk.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -141,7 +141,7 @@
   },
   {
     "name": "Arlong",
-    "imageFilename": "arlong.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd77bd649806f49e6025_arlong.png",
     "gender": "Male",
     "race": "Gyojin",
     "worldStatus": "Pirate",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Hatchan",
-    "imageFilename": "hatchan.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd908abed6387f8f332b_hatchan.png",
     "gender": "Male",
     "race": "Gyojin",
     "worldStatus": "Pirate / Civilian",
@@ -161,7 +161,7 @@
   },
   {
     "name": "Emporio Ivankov",
-    "imageFilename": "emporio_ivankov.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd979917def056a717f3_emporio_ivankov.png",
     "gender": "Okama",
     "race": "Human",
     "worldStatus": "Revolutionary",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Belle-mere",
-    "imageFilename": "bellemere.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bd9b5c749628472c40ad_bellemere.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Civilian / Marine",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Tashigi",
-    "imageFilename": "tashigi.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdbbe6c2543588a83aab_tashigi.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Marine",
@@ -191,7 +191,7 @@
   },
   {
     "name": "Smoker",
-    "imageFilename": "smoker.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdbda49e586d99ff1ced_smoker.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Marine",
@@ -201,7 +201,7 @@
   },
   {
     "name": "Laboon",
-    "imageFilename": "laboon.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdc08abed6387f8f4c39_laboon.png",
     "gender": "Male",
     "race": "Animal",
     "worldStatus": "Civilian",
@@ -211,7 +211,7 @@
   },
   {
     "name": "Nefertari Vivi",
-    "imageFilename": "vivi.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdfa8190fe5df3501f1b_vivi.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Civilian",
@@ -221,7 +221,7 @@
   },
   {
     "name": "Crocodile",
-    "imageFilename": "crocodile.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdf62473ac6bf1408c11_crocodile.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -231,7 +231,7 @@
   },
   {
     "name": "Nico Robin",
-    "imageFilename": "robin.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bdf3c6ff554eb603643f_robin.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Mr. 2 (Bon Kurei)",
-    "imageFilename": "bonchan.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be216a8639197a874ebe_bonchan.png",
     "gender": "Okama",
     "race": "Human",
     "worldStatus": "Bountyhunter",
@@ -251,7 +251,7 @@
   },
   {
     "name": "Wapol",
-    "imageFilename": "wapol.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be24a0ec2e337d091536_wapol.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Tony Tony Chopper",
-    "imageFilename": "chopper.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be29a5a2f97fb6fc61d4_chopper.png",
     "gender": "Male",
     "race": "Animal",
     "worldStatus": "Pirate",
@@ -271,7 +271,7 @@
   },
   {
     "name": "Marshall D. Teach",
-    "imageFilename": "kurohige.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be3f887272af54746295_kurohige.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -281,7 +281,7 @@
   },
   {
     "name": "Portgas D. Ace",
-    "imageFilename": "ace.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be651eb26193f8882240_ace.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Nefertari Cobra",
-    "imageFilename": "cobra.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be6b264ad19f20cd28eb_cobra.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Civilian",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Brook",
-    "imageFilename": "brook.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be6ea5a2f97fb6fc81ef_brook.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -311,7 +311,7 @@
   },
   {
     "name": "Gecko Moria",
-    "imageFilename": "gecko_moria.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599be731df5a8f256699830_gecko_moria.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -321,7 +321,7 @@
   },
   {
     "name": "Trafalgar D. Law",
-    "imageFilename": "trafalgar_d_law.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beb1321ff3bd7902e90f_trafalgar_d_law.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -331,7 +331,7 @@
   },
   {
     "name": "Eustass 'Captain' Kid",
-    "imageFilename": "kidd.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bec15c749628472cdffd_kidd.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Capone 'Bang' Bege",
-    "imageFilename": "capone.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beb9887272af5474ac72_capone.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -351,7 +351,7 @@
   },
   {
     "name": "Jewelry Bonney",
-    "imageFilename": "bonney.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beca35b9f4c2f76f3b1d_bonney.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Basil Hawkins",
-    "imageFilename": "hawkins.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599beeeb53dc2c262004925_hawkins.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -371,7 +371,7 @@
   },
   {
     "name": "Scratchmen Apoo",
-    "imageFilename": "apoo.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bef3321ff3bd790302f7_apoo.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -381,7 +381,7 @@
   },
   {
     "name": "Urouge",
-    "imageFilename": "urouge.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bef7cde373fe63d74cf0_urouge.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -391,7 +391,7 @@
   },
   {
     "name": "Killer",
-    "imageFilename": "killer.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599befdcde373fe63d75160_killer.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -401,7 +401,7 @@
   },
   {
     "name": "X Drake",
-    "imageFilename": "drake.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf1e3f61981a9441c7fd_drake.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -412,7 +412,7 @@
 
   {
     "name": "Rayleigh",
-    "imageFilename": "rayleigh.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf2351d4d2628fb13792_rayleigh.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -422,7 +422,7 @@
   },
   {
     "name": "Donquixote Doflamingo",
-    "imageFilename": "donquixote.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf1faa81920504ab9ceb_donquixote.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -432,7 +432,7 @@
   },
   {
     "name": "Boa Hancock",
-    "imageFilename": "boa_hancock.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf3dc6ff554eb6040a87_boa_hancock.png",
     "gender": "Female",
     "race": "Human",
     "worldStatus": "Pirate",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Magellan",
-    "imageFilename": "magellan.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf42426a9052442eb3bf_magellan.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Marine",
@@ -452,7 +452,7 @@
   },
   {
     "name": "Jinbe",
-    "imageFilename": "jinbe.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf452473ac6bf141379e_jinbe.png",
     "gender": "Male",
     "race": "Gyojin",
     "worldStatus": "Pirate",
@@ -462,7 +462,7 @@
   },
   {
     "name": "King Neptune",
-    "imageFilename": "king_neptune.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf4cc489a49f48b32567_king_neptune.png",
     "gender": "Male",
     "race": "Gyojin",
     "worldStatus": "Civilian",
@@ -472,7 +472,7 @@
   },
   {
     "name": "Shirahoshi",
-    "imageFilename": "shirahoshi.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7355ab821f563ff649_shirahoshi.png",
     "gender": "Female",
     "race": "Gyojin",
     "worldStatus": "Civilian",
@@ -482,7 +482,7 @@
   },
   {
     "name": "Hody Jones",
-    "imageFilename": "hody_jones.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf768b0931a1a3234340_hody_jones.png",
     "gender": "Male",
     "race": "Gyojin",
     "worldStatus": "Pirate",
@@ -492,7 +492,7 @@
   },
   {
     "name": "Momonosuke",
-    "imageFilename": "momonosuke.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7b6e08f19632d3ef48_momonosuke.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Samurai",
@@ -502,7 +502,7 @@
   },
   {
     "name": "Kinemon",
-    "imageFilename": "kinemon.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf7e5ad3bf2497071575_kinemon.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Samurai",
@@ -512,7 +512,7 @@
   },
   {
     "name": "Fujitora",
-    "imageFilename": "fujitora.png",
+    "imageFilename": "https://uploads-ssl.webflow.com/6553e2be02ea4722faa374cd/6599bf9da5a2f97fb6fd0ea3_fujitora.png",
     "gender": "Male",
     "race": "Human",
     "worldStatus": "Marine",
